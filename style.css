@@ -1,0 +1,53 @@
+.infmain {
+    margin-left: 6%;
+    height: 730px;
+    width: 1400px;
+    background-color: rgb(148, 181, 207);
+    border: 2px solid #000;
+}
+
+.header1 {
+    margin-left: 40%;
+    color: #000;
+}
+
+.image1 {
+    margin-left: 37%;
+}
+
+p {
+    color: #000;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.text1 {
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+    color: #000;
+    text-align: justify;
+}
+
+.inf1 {
+    margin-top: 5%;
+    margin-left: 6%;
+    height: 300px;
+    width: 1400px;
+    background-color:rgb(148, 181, 207);
+    border: 2px solid #000;
+}
+
+.image2 {
+    margin-top: 3%;
+    margin-left: 3%;
+}
+
+.text2 {
+    margin-left: 27%;
+    margin-right: 3%;
+    margin-top: -10%;
+    text-align: justify;
+}
